@@ -1,1 +1,1 @@
-# Makine-renimi-Algoritmalar-Pratik
+# Makine-Ogrenimi-Algoritmalar-Pratik
