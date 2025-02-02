@@ -1,0 +1,1 @@
+# Makine-renimi-Algoritmalar-Pratik
